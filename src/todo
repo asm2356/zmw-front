@@ -1,0 +1,1 @@
+make.vue =>releaseArticle()    formdata.append("contentList",this.abbrShowList); contentList清空图片数据减少流量
